@@ -4,5 +4,5 @@ aula ministrada pelo Profº  Rafael Galleani
 
 
 
-# Página em Html 5, utilizando o Css3.
+# Joguinho da Cobra desenvolvido em Html 5, utilizando o Css3.
 ![JogoCobraJs](https://github.com/CarlosAlexFO/Javascript_JogoCobra/blob/master/JogoCobraJs.gif)
